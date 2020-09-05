@@ -25,5 +25,6 @@ int main()
 	reverse(arr);
 	printf("%s\n", arr);
 
+	
 	return 0;
 }
